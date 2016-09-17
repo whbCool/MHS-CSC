@@ -1,0 +1,16 @@
+HOW TO PUSH YOUR PROJECTS TO THE REPOSITORY:
+
+1. Place your file in designated area.
+
+2. Open Git Shell in the cloned repository.
+
+3. Type the following EXACTLY:
+	
+	git merge
+	git add .
+	git commit -m (directory)
+	git push origin
+
+*dont forget the period in the second command
+
+4. Relax and grab some coffee while your project is synced with your group!
